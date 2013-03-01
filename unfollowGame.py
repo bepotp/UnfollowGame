@@ -1,7 +1,7 @@
 ######################################################################################################
 #  			UNFOLLOW GAME
 # Author: Bepotp
-# Be Carreful : Quick and Dirty
+# Be Careful : Quick and Dirty
 # Unfollow the friends who tweets about this fucking game http://en.wikipedia.org/wiki/The_Game_(mind_game)
 ######################################################################################################
 import twitter
