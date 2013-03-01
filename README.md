@@ -11,3 +11,5 @@ INSTALLATION AND SETUP
 
 
 * Install https://code.google.com/p/python-twitter/
+
+* Add the script to your twitter account : http://twitter.com/apps/new
